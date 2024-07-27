@@ -4,7 +4,7 @@ This MATLAB program performs JPEG compression on a color image. The program conv
 
 ## Files
 
-- `JPEGCompression.m`: Main MATLAB script for JPEG compression.
+- `jpeg.m`: Main MATLAB script for JPEG compression.
 - `peppers.png`: Sample image used for compression. You can replace it with your own images.
 
 ## How to Use
