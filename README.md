@@ -39,13 +39,13 @@ The script generates output images at different compression levels to compare qu
 ## 📷 Sample Results
 Below are images demonstrating different compression levels:
 
-1. **Compressed Image 1 (High Quality) **
+1. **Compressed Image 1 (High Quality)**<br>
    ![Original Image](https://github.com/4maan4hmed/JPEG-Compression/blob/main/Compressed%20Image%201.png)
 
-2. **Compressed Image (High Quality) **
+2. **Compressed Image 2 (High Quality)**<br>
    ![High Quality](https://github.com/4maan4hmed/JPEG-Compression/blob/main/Compressed%20Image%202.png)
 
-3. **Compressed Image (Low Quality)**
+3. **Compressed Image 2 (Low Quality)**<br>
    ![Medium Quality](https://github.com/4maan4hmed/JPEG-Compression/blob/main/Highly%20Compresed%20Image%202.jpg)
 
 ## 🛠 Dependencies
